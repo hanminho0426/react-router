@@ -17,7 +17,7 @@ airia-current: string
 - activeClassName, activeStyle 처럼 active 상태에 대한 스타일 지정이 가능하다.
   -Router의 path처럼 동작하기 때문에 exact가 있다.
 
-## <Redirect>
+## Redirect
 
 ```jsx
 import { Redirect } from "react-router-dom";
